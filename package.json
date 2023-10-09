@@ -1,0 +1,33 @@
+{
+  "name": "unocss-test",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelo825/UnoCSS-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steelo825/UnoCSS-test/issues"
+  },
+  "homepage": "https://github.com/steelo825/UnoCSS-test#readme",
+  "devDependencies": {
+    "babel-loader": "^9.1.3",
+    "css-loader": "^6.8.1",
+    "csv-loader": "^3.0.5",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "xml-loader": "^1.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
